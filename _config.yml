@@ -1,5 +1,5 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: 
+title: BlowFrogz
+description: Official website for the BlowFrogz, a Portland-based original rock band
+baseurl: /BlowFrogz
+url: https://blowfrogz.github.io/BlowFrogz/
+tagline: BlowFrogz official website
